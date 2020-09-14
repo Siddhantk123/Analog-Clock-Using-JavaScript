@@ -37,14 +37,15 @@
 }
 #datetime{
     
-    left: 49.25%;
+    left: 50.25%;
     
     
 }
 p{
     position: absolute;
-    top:99%;
-    left:19%;
+    top:105%;
+    left:30%;
+    color: rgb(10, 10, 10);
     
     
     
@@ -52,6 +53,6 @@ p{
 body{
     background-image: url("nature.jpg");
     background-repeat: no-repeat;
-    background-size: 1373px 683px;
+    background-size: 1379px 657px;
 
 }
